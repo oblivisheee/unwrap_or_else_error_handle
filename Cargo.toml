@@ -2,5 +2,8 @@
 name = "unwrap_or_else_error_handle"
 version = "0.1.0"
 edition = "2024"
-
+description = "Function to handle errors in a way that prints a message and exits the program."
+license-file = "LICENSE"
+authors = ["Oleg Pogoraev <contact@oblivisheee.me>"]
+repository = "https://github.com/oblivisheee/unwrap_or_else_error_handle"
 [dependencies]
